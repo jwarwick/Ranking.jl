@@ -1,0 +1,8 @@
+name = "Ranking"
+uuid = "55c9033f-91b1-470d-bb12-3d38e8ef4bea"
+authors = ["Unknown "]
+version = "0.1.0"
+
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
